@@ -1,0 +1,16 @@
+G:\VisualStudio\Projetos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.exe
+G:\VisualStudio\Projetos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.deps.json
+G:\VisualStudio\Projetos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.runtimeconfig.json
+G:\VisualStudio\Projetos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.runtimeconfig.dev.json
+G:\VisualStudio\Projetos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.dll
+G:\VisualStudio\Projetos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.pdb
+G:\VisualStudio\Projetos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.csprojAssemblyReference.cache
+G:\VisualStudio\Projetos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.AssemblyInfoInputs.cache
+G:\VisualStudio\Projetos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.AssemblyInfo.cs
+G:\VisualStudio\Projetos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.csproj.CoreCompileInputs.cache
+G:\VisualStudio\Projetos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.dll
+G:\VisualStudio\Projetos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.pdb
+G:\VisualStudio\Projetos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.genruntimeconfig.cache
+G:\VisualStudio\Projetos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp3.1\Encapsulamento.dll
+G:\VisualStudio\Projetos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp3.1\Encapsulamento.pdb
+G:\VisualStudio\Projetos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.csproj.CopyComplete
